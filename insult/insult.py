@@ -213,9 +213,6 @@ insults: List[str] = [
     _("Your birth certificate is an apology from the abortion clinic."),
     _("If you were anymore inbred you'd be a sandwich."),
     _("Say hello to your wife and my kids for me."),
-    _(
-        "You are thick-headed bastards with a bloated bureaucracy, designed to compensate for your small and poor self-esteem, cocksuckers. You have the brains to ban the person who has come to support channel your bot, accusing him of violating the ephemeral ephemeral rules, stupid morons. By the way i have one of the biggest server(5.5k  people, ~30 anytime voiceonline members), and i know something about managing, and of these rules - dont be an asshole. You are fucking asshole, maybe it is product of your life alone, or your life with your mom, anyway - you are retard and your soul is a fucking bunch of stupid self-esteems."
-    ),
     _("Don’t feel bad, there are many people who have no talent!"),
     _("I’d like to kick you in the teeth, but why should I improve your looks?"),
     _("At least there’s one thing good about your body, it’s not as ugly as your face."),
